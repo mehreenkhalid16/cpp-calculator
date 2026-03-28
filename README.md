@@ -1,21 +1,56 @@
-# cpp-calculator
-This is a Simple calculator program written in C++. 
-## Features 
-- Addition
-- Multiplication
-- Subtraction
-- Division
-- Modulus
-  ## How to Use
-  1. Run calculator.cpp in your C++ compiler.
-  2. Choose an  operation from the menu.
-  3. Enter two Numbers.
-  4. See the Result!
-   ## What I Learned
-  - Switch Statements
-  - User input handling
-  - Basic programming Logic
-    ## Screenshot
-    <img width="643" height="285" alt="cal" src="https://github.com/user-attachments/assets/b657ae18-a1fe-42b8-9889-f22897c4ca15" />
+# 🧮 C++ Calculator
 
-     
+This is a simple console-based calculator program written in C++.
+It performs basic arithmetic operations and is designed for beginners.
+
+---
+
+## 🚀 Features
+
+* Addition
+* Subtraction
+* Multiplication
+* Division (with zero handling)
+* Modulus (with zero handling)
+* Exit option
+
+---
+
+## ▶️ How to Use
+
+1. Compile and run `calculator.cpp`
+2. Choose an operation from the menu
+3. Enter two numbers
+4. View the result
+
+---
+
+## 📚 What I Learned
+
+* Switch statements
+* User input handling
+* Loops (while loop)
+* Basic programming logic
+* Error handling (division/modulus by zero)
+
+---
+
+## 📸 Screenshot
+
+<img width="813" height="602" alt="cc" src="https://github.com/user-attachments/assets/4cfb862c-61a0-424d-ab86-450cead8c87b" />
+
+---
+
+## 📈 Version
+
+**v2 (Updated):**
+
+* Added Exit option
+* Added error handling
+* Improved output formatting
+
+---
+
+## 🙌 Author
+
+Mehreen Khalid
